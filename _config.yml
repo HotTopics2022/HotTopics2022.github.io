@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Event"
+title                    : "Hot Topics 2022"
 title_separator          : "-"
 name                     : &name "Event name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ author:
   name             : ""
   avatar           : "profile.png"
   bio              : "A description of your event for the left-hand sidebar"
-  location         : "Location, Place"
-  employer         : "Institution"
+  location         : "Havana, Cuba"
+  employer         : "University of Havana"
   googlescholar    : 
   email            : 
   uri              : 
