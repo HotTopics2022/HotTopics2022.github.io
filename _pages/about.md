@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of your Github pages website!
+*Hot Topics 2022* - The 2<sup>nd</sup> Hot Topics will be held in Havana, Cuba, September 2022
 
-You can use all kinds of markdown. See [the guide](/events/markdown/).
+Congress Chair: Prof. Dr. Luis Alberto Montero 
 
 ## Images
 ![alt text](/images/500x300.png "Logo Title Text 1")
